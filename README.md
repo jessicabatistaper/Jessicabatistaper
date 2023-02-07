@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Jessicabatistaper)
 
-### Oi Eu Sou A Jessica! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jessica+Batista;I'm+27+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-batista-pereira-76ba39163)
@@ -10,7 +11,12 @@
 [![twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jessicarhgeneralista)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jessicarh7138)
 
-![jessicabatistaper GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicabatistaper&show_icons=true&theme=radical)
+
+
+
+
+
+
 
 
 
