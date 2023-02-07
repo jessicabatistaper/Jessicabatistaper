@@ -20,8 +20,10 @@
 [![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 
-<img Align “rigth” alt “jessicabatistaper-genkai” src" “ https://tenor.com/pt-BR/view/genkai-yu-yu-hakusho-windy-serious-gif-13615784
+ 
 
+ <img src="https://tenor.com/pt-BR/view/genkai-yu-yu-hakusho-windy-serious-gif-13615784" width="300px" height="170px">                                                                                       
+                                                                                        
 <!--
 **jessicabatistaper/Jessicabatistaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
