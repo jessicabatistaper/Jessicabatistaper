@@ -23,7 +23,8 @@
  ## "A verdadeira luta começa quando achamos que não dá mais!"– Genkai
 
 
- <img src="https://media.tenor.com/kSF4pvsE_CwAAAAC/genkai-yu-yu-hakusho-windy.gif" width="300px" height="170px"> 
+
+ <img src="https://pa1.narvii.com/6439/127f65ffac882ed0562f543097cfdf4a0bf106ca_hq.gif" width="600px" height="300px"> 
  
  
  
