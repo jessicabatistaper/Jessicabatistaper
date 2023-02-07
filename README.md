@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/Jessicabatistaper)
+
 ### Oi Eu Sou A Jessica! 👋
 
 
