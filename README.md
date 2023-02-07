@@ -40,7 +40,12 @@
  
  
                                                                                         
-                                                                                        
+
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+
 <!--
 **jessicabatistaper/Jessicabatistaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
