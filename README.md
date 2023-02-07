@@ -8,7 +8,7 @@
 [![twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jessicarhgeneralista)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jessicarh7138)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![jessicabatistaper GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicabatistaper&show_icons=true&theme=radical)
 
 
 
@@ -20,9 +20,17 @@
 [![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 
- 
+ ## "A verdadeira luta começa quando achamos que não dá mais!"– Genkai
 
- <img src="https://media.tenor.com/kSF4pvsE_CwAAAAC/genkai-yu-yu-hakusho-windy.gif" width="300px" height="170px">                                                                                       
+
+ <img src="https://media.tenor.com/kSF4pvsE_CwAAAAC/genkai-yu-yu-hakusho-windy.gif" width="300px" height="170px"> 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                        
                                                                                         
 <!--
 **jessicabatistaper/Jessicabatistaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
