@@ -22,7 +22,7 @@
 
  
 
- <img src="https://tenor.com/pt-BR/view/genkai-yu-yu-hakusho-windy-serious-gif-13615784" width="300px" height="170px">                                                                                       
+ <img src="https://media.tenor.com/kSF4pvsE_CwAAAAC/genkai-yu-yu-hakusho-windy.gif" width="300px" height="170px">                                                                                       
                                                                                         
 <!--
 **jessicabatistaper/Jessicabatistaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
